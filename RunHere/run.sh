@@ -1,0 +1,1 @@
+make run -s
